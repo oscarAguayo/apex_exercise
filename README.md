@@ -2,6 +2,12 @@
 
 ## How to set up the project
 
+Clone the repo:
+
+```shell
+git clone https://github.com/oscarAguayo/apex_exercise.git
+```
+
 Dependencies: python >= 3.8
 
 First create an environment and activate
@@ -67,4 +73,3 @@ To see the trace generated.
 ## Additional notes
 
 The tests need to be executed `--headed` because the site detect the "headless" mode and block the requests.
-
